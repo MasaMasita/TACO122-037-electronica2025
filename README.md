@@ -10,7 +10,7 @@ repositorio del curso Electrónica Digital: del Dato al Objeto del Departamento 
 |     3 |  21 ago | Intro programación en arduino, señal digital, morse                                                  |
 |     4 |  28 ago | Señales analógicas de entrada y salida                                                              |
 |     5 |  4 sept | display 7 segmentos, cátodo común, números binarios                                                |
-|     6 | 11 sept | i2c y pantallas (16x2? OLED? 8x8?)                                                                  |
+|     6 | 11 sept | i2c y pantallas (16x2? OLED? 8x8?). EVALUACIÓN NOTA 1                                                                  |
 | x     | 18 sept | feriado                                                                                            |
 |     7 | 25 sept | processing, texto, cámara                                                                          |
 |     8 |   2 oct | guardar datos en tarjeta SD (spi)                                                                  |
@@ -42,3 +42,18 @@ repositorio del curso Electrónica Digital: del Dato al Objeto del Departamento 
 | estudiante12 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
 | estudiante13 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
 | estudiante14 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
+
+## Evaluaciones
+
+- Nota 1
+    - Un proyecto de resolución de problema interconexión de un sensor y un actuador (50%) 
+    - Procesos de bitácora de ejercicios dados clase a clase hasta ese punto
+- Nota 2
+    - Anteproyecto artístico
+    - Procesos de bitácora
+- Nota 3
+    - Avance de proyecto final en última clse del semestre
+    - Documentación en bitácora
+
+La nota de presentación será el promedio de las 3 notas anteriores, y conformará el 60% de la nota final del curso. El otro 40% corresponde al examen.
+
