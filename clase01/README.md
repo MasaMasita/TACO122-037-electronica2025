@@ -55,4 +55,5 @@ Tractatus logico-philosophicus (1921) del filósofo austriaco Ludwig Wittgenstei
 - [John Maeda sobre Design by Numbers](https://maeda.pm/2017/12/01/design-by-numbers-in-2017/)
 - [Sobre el inicio de Processing](https://www.benfry.com/writing/archives/513/)
 - [33 preguntas por minuto](https://www.lozano-hemmer.com/33_questions_per_minute.php)
-- Libro: [Code as creative medium](../libros/f62d933fc6600b64d975fa76ba7d93c9.pdf)
+- Libro: [Code as creative medium](.https://drive.google.com/file/d/1nINNHaT2K8J4e0vC1CEPemVNpAJVJPi5/view?usp=drive_link)
+- Libro: [Design by numbers](https://drive.google.com/file/d/1gRUwAL6cci78FcL1kKONHiHr-ph3x2XX/view?usp=drive_link)
