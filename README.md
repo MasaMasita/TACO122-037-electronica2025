@@ -55,5 +55,5 @@ repositorio del curso Electrónica Digital: del Dato al Objeto del Departamento 
     - Avance de proyecto final en última clse del semestre
     - Documentación en bitácora
 
-La nota final está compuesta de la ponderación de la nota de presentación y la nota de examen. La nota de presentación será el promedio de las 3 notas anteriores, y conformará el 60% de la nota final del curso. El otro 40% corresponde al examen.
+La nota final está compuesta de la ponderación de la nota de presentación y la nota de examen. git sLa nota de presentación será el promedio de las 3 notas anteriores, y conformará el 60% de la nota final del curso. El otro 40% corresponde al examen.
 
