@@ -57,3 +57,45 @@ repositorio del curso Electrónica Digital: del Dato al Objeto del Departamento 
 
 La nota final está compuesta de la ponderación de la nota de presentación y la nota de examen. git sLa nota de presentación será el promedio de las 3 notas anteriores, y conformará el 60% de la nota final del curso. El otro 40% corresponde al examen.
 
+### Nota para el profesor
+
+Para trabajar con submódulos:
+
+- Crear carpeta para recibir cada bitácora e ir a ella
+
+```
+cd bitacoras
+```
+
+- Para agregar submódulo
+
+```
+git submodule add <enlace-repo-bitácora> bitacora1   
+```
+
+- Si clonas un repositorio que tiene submódulos es necesario incluirlos luego de clonarlos
+
+```
+git submodule init
+git submodule update
+```
+
+- Para que Git incluya automáticamente los submódulos en ciertos comandos sin que tengas que poner la opción --recurse-submodules cada vez
+
+```
+git config submodule.recurse true
+```
+
+
+
+- Utilizar este comando para hacer un pull que incluya los submódulos
+
+```
+git pull --recurse-submodules && git submodule update --remote --merge --recursive
+```
+
+- Se puede configurar un alias para que haga todo esto más rápido
+
+```
+git config --global alias.pullall '!git pull --recurse-submodules && git submodule update --remote --merge --recursive'
+```
