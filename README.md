@@ -29,6 +29,7 @@ repositorio del curso Electrónica Digital: del Dato al Objeto del Departamento 
 
 | estudiante | enlace |
 |--------------|------|
+| estudiante01 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
 | estudiante02 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
 | estudiante03 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
 | estudiante04 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
@@ -38,9 +39,12 @@ repositorio del curso Electrónica Digital: del Dato al Objeto del Departamento 
 | estudiante08 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
 | estudiante09 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
 | estudiante10 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
-| estudiante11 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
+| GatoRodriguez | [link](https://github.com/GatoRodriguez/TACO122-037-Bitacora-GatoRodriguez) |
 | estudiante12 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
 | estudiante13 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
+| estudiante14 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
+| estudiante15 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
+| estudiante16 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
 | estudiante14 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
 
 ## Evaluaciones
