@@ -27,27 +27,26 @@ repositorio del curso Electrónica Digital: del Dato al Objeto del Departamento 
 
 ## Bitácoras de estudiantes
 
-| estudiante | enlace |
-|--------------|------|
-| estudiante01 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
-| estudiante02 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
-| estudiante03 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
-| estudiante04 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
-| estudiante05 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
-| estudiante06 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
-| estudiante07 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
-| estudiante08 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
-| estudiante09 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
-| estudiante10 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
-| GatoRodriguez | [link](https://github.com/GatoRodriguez/TACO122-037-Bitacora-GatoRodriguez) |
-| estudiante12 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
-| estudiante13 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
-| estudiante14 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
-| estudiante15 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
-| estudiante16 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
-| estudiante14 | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#) |
-
-## Evaluaciones
+| #  | estudiante      | enlace                                                                                   |
+|----|----------------|------------------------------------------------------------------------------------------|
+| 01 | estudiante01    | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#)                       |
+| 02 | estudiante02    | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#)                       |
+| 03 | estudiante03    | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#)                       |
+| 04 | estudiante04    | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#)                       |
+| 05 | estudiante05    | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#)                       |
+| 06 | estudiante06    | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#)                       |
+| 07 | estudiante07    | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#)                       |
+| 08 | estudiante08    | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#)                       |
+| 09 | estudiante09    | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#)                       |
+| 10 | estudiante10    | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#)                       |
+| 11 | GatoRodriguez   | [link](https://github.com/GatoRodriguez/TACO122-037-Bitacora-GatoRodriguez)             |
+| 12 | estudiante12    | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#)                       |
+| 13 | estudiante13    | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#)                       |
+| 14 | estudiante14    | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#)                       |
+| 15 | estudiante15    | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#)                       |
+| 16 | estudiante16    | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#)                       |
+| 17 | estudiante17    | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#)                       |
+| 18 | estudiante18    |  [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#)     |
 
 - Nota 1
     - Un proyecto de resolución de problema interconexión de un sensor y un actuador (50%) 
