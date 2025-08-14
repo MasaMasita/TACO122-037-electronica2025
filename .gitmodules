@@ -1,3 +1,6 @@
 [submodule "bitacoras/bit11"]
 	path = bitacoras/bit11
 	url = https://github.com/GatoRodriguez/TACO122-037-Bitacora-GatoRodriguez
+[submodule "bitacoras/bit101"]
+	path = bitacoras/bit101
+	url = https://github.com/tarmiii/TACO122-137-BITACORA-TARMIII
