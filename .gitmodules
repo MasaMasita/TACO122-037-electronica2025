@@ -4,3 +4,12 @@
 [submodule "bitacoras/bit101"]
 	path = bitacoras/bit101
 	url = https://github.com/tarmiii/TACO122-137-BITACORA-TARMIII
+[submodule "bitacoras/bit01"]
+	path = bitacoras/bit01
+	url = https://github.com/MasaMasita/Taller-Electr-nica-Digital
+[submodule "bitacoras/bit02"]
+	path = bitacoras/bit02
+	url = https://github.com/Martobrave/taco122-037-bitacora-martobrave
+[submodule "bitacoras/bit05"]
+	path = bitacoras/bit05
+	url = https://github.com/404-gabi/taco122-037-bitacora-404-gabi

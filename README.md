@@ -33,7 +33,7 @@ repositorio del curso Electrónica Digital: del Dato al Objeto del Departamento 
 | 02 | Martín Bravo    | [Martobrave](https://github.com/Martobrave/taco122-037-bitacora-martobrave)                       |
 | 03 | Alonso Carrasco    | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#)                       |
 | 04 | Cukis    | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#)                       |
-| 05 | Gabriela Inostroza    | [404-gabi](https://github.com/404-gabi/taco122-037-bitacora-404-gabi/tree/main)                       |
+| 05 | Gabriela Inostroza    | [404-gabi](https://github.com/404-gabi/taco122-037-bitacora-404-gabi/)                       |
 | 06 | Emiliano Jimenez    | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#)                       |
 | 07 | Cristobal Mansilla    | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#)                       |
 | 08 | Felipe Olivares    | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#)                       |
@@ -62,3 +62,11 @@ Visitantes/oyentes/observantes/externos al DAV
 
 La nota final está compuesta de la ponderación de la nota de presentación y la nota de examen. git sLa nota de presentación será el promedio de las 3 notas anteriores, y conformará el 60% de la nota final del curso. El otro 40% corresponde al examen.
 
+## Nota para clonar
+
+Este repositorio contiene submódulos. Si clonas el repositorio no olvidar de hacer
+
+```
+git submodule init
+git submodule update
+```
