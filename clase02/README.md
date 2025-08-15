@@ -28,9 +28,15 @@ triangle(), rect(), quad(), ellipse(), arc() ` Los cuadrados se crean con `rect(
 
 Generar un afiche con algunas variaciones de movimiento, que incluya el texto seleccionado en el primer encargo. Referente: constructivismo ruso
 
-Investigar variables de tipo "String" para escribir palabras 
+Investigar variables de tipo "String" para escribir palabras
 
 
 ```java
 String palabra = "hola terricolas soy un String";
 ```
+
+## Grabación clases
+
+Parte 1: <https://youtu.be/PT9xX-aXDEI>
+
+Parte 2: <https://youtu.be/tRncg5OI9uk>
