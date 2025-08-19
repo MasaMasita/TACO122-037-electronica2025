@@ -10,7 +10,7 @@ repositorio del curso Electrónica Digital: del Dato al Objeto del Departamento 
 |     3 |  21 ago | Intro programación en arduino, señal digital, morse                                                  |
 |     4 |  28 ago | Señales analógicas de entrada y salida                                                              |
 |     5 |  4 sept | display 7 segmentos, cátodo común, números binarios                                                |
-|     6 | 11 sept | i2c y pantallas (16x2? OLED? 8x8?). EVALUACIÓN NOTA 1                                                                  |
+|     6 | 11 sept | i2c y pantallas (16x2? OLED? 8x8?). EVALUACIÓN NOTA 1                                             |
 | x     | 18 sept | feriado                                                                                            |
 |     7 | 25 sept | processing, texto, cámara                                                                          |
 |     8 |   2 oct | guardar datos en tarjeta SD (spi)                                                                  |
@@ -31,7 +31,7 @@ repositorio del curso Electrónica Digital: del Dato al Objeto del Departamento 
 |----|----------------|------------------------------------------------------------------------------------------|
 | 01 | Daniela Baeza    | [MasaMasita](https://github.com/MasaMasita/Taller-Electr-nica-Digital)                       |
 | 02 | Martín Bravo    | [Martobrave](https://github.com/Martobrave/taco122-037-bitacora-martobrave)                       |
-| 03 | Alonso Carrasco    | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#)                       |
+| 03 | Alonso Carrasco    | [koydfripp](https://github.com/koydfripp)                       |
 | 04 | Cukis    | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#)                       |
 | 05 | Gabriela Inostroza    | [404-gabi](https://github.com/404-gabi/taco122-037-bitacora-404-gabi/)                       |
 | 06 | Emiliano Jimenez    | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#)                       |
@@ -45,7 +45,7 @@ Visitantes/oyentes/observantes/externos al DAV
 
 | #  | estudiante      | enlace                                                                                   |
 |----|----------------|------------------------------------------------------------------------------------------|
-| 101 | Tarmy    | [link](https://github.com/tarmiii/TACO122-137-BITACORA-TARMIII)                       |
+| 101 | Tarmy       | [link](https://github.com/tarmiii/TACO122-137-BITACORA-TARMIII)                       |
 | 102 | Joaquín    | [Sagiris2003](https://github.com/sagiris2003/taco122-037-bitacora-sagiris2003)                       |
 | 103 | estudiante17    | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#)                       |
 | 104 | estudiante18    |  [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#)     |
