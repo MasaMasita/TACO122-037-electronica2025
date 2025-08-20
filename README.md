@@ -47,7 +47,7 @@ Visitantes/oyentes/observantes/externos al DAV
 |----|----------------|------------------------------------------------------------------------------------------|
 | 101 | Tarmy       | [link](https://github.com/tarmiii/TACO122-137-BITACORA-TARMIII)                       |
 | 102 | Joaquín    | [Sagiris2003](https://github.com/sagiris2003/taco122-037-bitacora-sagiris2003)                       |
-| 103 | estudiante17    | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#)                       |
+| 103 | Ignacio Mariño    | [volodoro](https://github.com/volodoro/Bitacora-TACO122)                       |
 | 104 | estudiante18    |  [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#)     |
 
 - Nota 1
