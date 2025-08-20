@@ -16,3 +16,12 @@
 [submodule "bitacoras/bit102"]
 	path = bitacoras/bit102
 	url = https://github.com/volodoro/Bitacora-TACO122
+[submodule "bitacoras/bit03"]
+	path = bitacoras/bit03
+	url = https://github.com/koydfripp/-TACO122-037-bitacora-koydfripp-
+[submodule "bitacoras/bit06"]
+	path = bitacoras/bit06
+	url = https://github.com/emilianojc/bit-cora-Emiliano-
+[submodule "bitacoras/bit103"]
+	path = bitacoras/bit103
+	url = https://github.com/sagiris2003/taco122-037-bitacora-sagiris2003

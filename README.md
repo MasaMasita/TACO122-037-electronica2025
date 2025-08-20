@@ -29,25 +29,25 @@ repositorio del curso Electrónica Digital: del Dato al Objeto del Departamento 
 
 | #  | estudiante      | enlace                                                                                   |
 |----|----------------|------------------------------------------------------------------------------------------|
-| 01 | Daniela Baeza    | [MasaMasita](https://github.com/MasaMasita/Taller-Electr-nica-Digital)                       |
-| 02 | Martín Bravo    | [Martobrave](https://github.com/Martobrave/taco122-037-bitacora-martobrave)                       |
-| 03 | Alonso Carrasco    | [koydfripp](https://github.com/koydfripp)                       |
+| 01 | Daniela Baeza    |🟩 [MasaMasita](https://github.com/MasaMasita/Taller-Electr-nica-Digital)                       |
+| 02 | Martín Bravo    |🟩 [Martobrave](https://github.com/Martobrave/taco122-037-bitacora-martobrave)                       |
+| 03 | Alonso Carrasco    |🟩 [koydfripp](https://github.com/koydfripp)                       |
 | 04 | Cukis    | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#)                       |
-| 05 | Gabriela Inostroza    | [404-gabi](https://github.com/404-gabi/taco122-037-bitacora-404-gabi/)                       |
-| 06 | Emiliano Jimenez    | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#)                       |
+| 05 | Gabriela Inostroza    |🟩 [404-gabi](https://github.com/404-gabi/taco122-037-bitacora-404-gabi/)                       |
+| 06 | Emiliano Jimenez    | 🟩 [emilianojc](https://github.com/emilianojc/bit-cora-Emiliano-)                       |
 | 07 | Cristobal Mansilla    | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#)                       |
 | 08 | Felipe Olivares    | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#)                       |
 | 09 | Tiara Pizarro    | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#)                       |
-| 10 | Santiago Rodríguez    | [GatoRodriguez](https://github.com/GatoRodriguez/TACO122-037-Bitacora-GatoRodriguez)                       |
-| 11 | estudiante11    | [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#)                       |
+| 10 | Santiago Rodríguez    | 🟩 [GatoRodriguez](https://github.com/GatoRodriguez/TACO122-037-Bitacora-GatoRodriguez)                       |
+
 
 Visitantes/oyentes/observantes/externos al DAV
 
 | #  | estudiante      | enlace                                                                                   |
 |----|----------------|------------------------------------------------------------------------------------------|
-| 101 | Tarmy       | [link](https://github.com/tarmiii/TACO122-137-BITACORA-TARMIII)                       |
-| 102 | Joaquín    | [Sagiris2003](https://github.com/sagiris2003/taco122-037-bitacora-sagiris2003)                       |
-| 103 | Ignacio Mariño    | [volodoro](https://github.com/volodoro/Bitacora-TACO122)                       |
+| 101 | Tarmy       |🟩 [tarmiii](https://github.com/tarmiii/TACO122-137-BITACORA-TARMIII)                       |
+| 102 | Joaquín    |🟩  [Sagiris2003](https://github.com/sagiris2003/taco122-037-bitacora-sagiris2003)                       |
+| 103 | Ignacio Mariño    |🟩 [volodoro](https://github.com/volodoro/Bitacora-TACO122)                       |
 | 104 | estudiante18    |  [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#)     |
 
 - Nota 1
