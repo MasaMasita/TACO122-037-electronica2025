@@ -143,3 +143,71 @@ void loop()
   
 }
 ```
+
+## Encargo: escribir el texto con morse
+Pueden utilizar como base el código construido en clases donde utilizamos las nuevas funciones punto();, raya(); y cada letra
+
+```cpp
+int ledPin = 13;
+//tiempos
+int tiempoPunto = 100;
+int separador = 50;
+int tiempoRaya = 500;
+int finCaracter = 100;
+int espacio = 500;
+
+void setup()
+{
+  pinMode(ledPin,OUTPUT);
+  //9600 es el baud rate
+  //o tasa de baudios
+  Serial.begin(9600);
+}
+
+void loop()
+{
+  //la A en morse .-
+  //llamamos la funcion punto para generar uno
+  punto();
+  //llamamos una funcion raya
+  raya();
+  
+  //un OSO es
+  // ---...---
+  o();
+  punto();punto();punto();
+  o();
+  
+  //cerramos el caracter
+  delay(finCaracter);
+  Serial.println(" cierre");
+}
+
+
+void punto(){
+  //crear una funcion que genere un punto
+  //prendemos el punto
+  digitalWrite(ledPin,HIGH);
+  Serial.println("punto");
+  //esperamos el punto encendido
+  delay(tiempoPunto);
+  //apagamos el punto
+  digitalWrite(ledPin,LOW);
+  //el espacio despues del punto
+  delay(separador);
+}
+
+void raya(){
+	//empezamos una raya
+  digitalWrite(ledPin,HIGH);
+  Serial.println("raya");
+  //espero el tiempo de la raya
+  delay(tiempoRaya);
+  //apagamos la raya
+  digitalWrite(ledPin,LOW);
+}
+
+void o(){
+	raya();raya();raya();
+}
+```
