@@ -25,3 +25,7 @@ Para subir imágenes:
 - Descargamos Arduino IDE
 - Driver CH340 para Arduinos Genéricos
   <https://www.geekfactory.mx/tutoriales-arduino/driver-ch340-para-arduino-chinos-o-genericos/>
+
+Windows: <https://cdn.geekfactory.mx/drivers/CH341SER.EXE>
+MAC: <https://cdn.geekfactory.mx/drivers/CH341SER_MAC.ZIP>
+Linux: <https://cdn.geekfactory.mx/drivers/CH341SER_LINUX.ZIP>
