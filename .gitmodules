@@ -25,3 +25,15 @@
 [submodule "bitacoras/bit103"]
 	path = bitacoras/bit103
 	url = https://github.com/sagiris2003/taco122-037-bitacora-sagiris2003
+[submodule "bitacoras/bit09"]
+	path = bitacoras/bit09
+	url = https://github.com/Markoook/taco122-037-bitacora-mark
+[submodule "bitacoras/bit12"]
+	path = bitacoras/bit12
+	url = https://github.com/gemagarate/taco122-037-bitacora-gemagarate
+[submodule "bitacoras/bit04"]
+	path = bitacoras/bit04
+	url = https://github.com/cukis666/cukis
+[submodule "bitacoras/bit07"]
+	path = bitacoras/bit07
+	url = https://github.com/Criis70/Proyecto-obra-trabajo-del-semestre.-Video-electr-nica-.-
