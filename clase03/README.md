@@ -19,3 +19,9 @@ Para subir imágenes:
 ```
 
 ![aquí hay dos gatos](./imagenes/gatos.jpg)
+
+### Arduino
+
+- Descargamos Arduino IDE
+- Driver CH340 para Arduinos Genéricos
+  <https://www.geekfactory.mx/tutoriales-arduino/driver-ch340-para-arduino-chinos-o-genericos/>
