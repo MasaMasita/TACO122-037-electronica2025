@@ -49,7 +49,7 @@ Visitantes/oyentes/observantes/externos al DAV
 | 101 | Tarmy       |🟩 [tarmiii](https://github.com/tarmiii/TACO122-137-BITACORA-TARMIII)                       |
 | 102 | Joaquín    |🟩  [Sagiris2003](https://github.com/sagiris2003/taco122-037-bitacora-sagiris2003)                       |
 | 103 | Ignacio Mariño    |🟩 [volodoro](https://github.com/volodoro/Bitacora-TACO122)                       |
-| 104 | estudiante18    |  [link](https://github.com/misaaaaaa/TACO122-037-electronica2025#)     |
+| 104 | Angel Olivares    |  [Ciyecm](https://github.com/Ciyecm/Bit-cora-Programaci-n-MISAA)     |
 
 - Nota 1
     - Un proyecto de resolución de problema interconexión de un sensor y un actuador (50%) 
