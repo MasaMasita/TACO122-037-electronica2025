@@ -40,3 +40,9 @@ git pull --recurse-submodules && git submodule update --remote --merge --recursi
 ```
 git config --global alias.pullall '!git pull --recurse-submodules && git submodule update --remote --merge --recursive'
 ```
+
+## Cosas que deberíamos considerar para un manifiesto del curso
+
+1. Lo raro es que las cosas funcionen como queremos
+2. Aprender consiste en fallar
+3. 
