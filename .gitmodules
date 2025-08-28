@@ -40,3 +40,6 @@
 [submodule "bitacoras/Ciyecm"]
 	path = bitacoras/Ciyecm
 	url = https://github.com/Ciyecm/Bit-cora-Programaci-n-MISAA
+[submodule "bitacoras/sonoboya"]
+	path = bitacoras/sonoboya
+	url = https://github.com/sonoboya/TACO-electronica2025

@@ -9,8 +9,8 @@ repositorio del curso Electrónica Digital: del Dato al Objeto del Departamento 
 |     2 |  14 ago | Intro programación en processing: variables, funciones, strings, print                              |
 |     3 |  21 ago | Intro programación en arduino, señal digital, morse                                                  |
 |     4 |  28 ago | Señales analógicas de entrada y salida                                                              |
-|     5 |  4 sept | display 7 segmentos, cátodo común, números binarios                                                |
-|     6 | 11 sept | i2c y pantallas (16x2? OLED? 8x8?). EVALUACIÓN NOTA 1                                             |
+|     5 |  4 sept | i2c y pantallas oled 096                                                 |
+|     6 | 11 sept | evaluación 1    (probable suspensión)                |
 | x     | 18 sept | feriado                                                                                            |
 |     7 | 25 sept | processing, texto, cámara                                                                          |
 |     8 |   2 oct | guardar datos en tarjeta SD (spi)                                                                  |
@@ -49,7 +49,8 @@ Visitantes/oyentes/observantes/externos al DAV
 | 101 | Tarmy       |🟩 [tarmiii](https://github.com/tarmiii/TACO122-137-BITACORA-TARMIII)                       |
 | 102 | Joaquín    |🟩  [Sagiris2003](https://github.com/sagiris2003/taco122-037-bitacora-sagiris2003)                       |
 | 103 | Ignacio Mariño    |🟩 [volodoro](https://github.com/volodoro/Bitacora-TACO122)                       |
-| 104 | Angel Olivares    |  [Ciyecm](https://github.com/Ciyecm/Bit-cora-Programaci-n-MISAA)     |
+| 104 | Angel Olivares    | 🟩 [Ciyecm](https://github.com/Ciyecm/Bit-cora-Programaci-n-MISAA)     |
+| 105 | sonoboya | 🟩[sonoboya](https://github.com/sonoboya/TACO-electronica2025)
 
 - Nota 1
     - Un proyecto de resolución de problema interconexión de un sensor y un actuador (50%) 
