@@ -1,3 +1,5 @@
+#include <Arduino.h>
+
 int potPin = A0;
 int ledPin = 7;
 int valorPot = 0; 
