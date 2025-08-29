@@ -48,3 +48,8 @@ if (valorPot < 100)
     } 
 ```
 
+## Videos
+
+[Parte1](https://youtu.be/Q4WtfYAB_l8)
+
+[Parte2](https://youtu.be/zB728_UgIn0)
