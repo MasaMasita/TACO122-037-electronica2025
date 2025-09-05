@@ -36,7 +36,7 @@ repositorio del curso Electrónica Digital: del Dato al Objeto del Departamento 
 | 05 | Gabriela Inostroza    |🟩 [404-gabi](https://github.com/404-gabi/taco122-037-bitacora-404-gabi/)                       |
 | 06 | Emiliano Jimenez    | 🟩 [emilianojc](https://github.com/emilianojc/bit-cora-Emiliano-)                       |
 | 07 | Cristobal Mansilla    |🟩  [Criis70](https://github.com/Criis70/Proyecto-obra-trabajo-del-semestre.-Video-electr-nica-.-/tree/main)                       |
-| 08 | Felipe Olivares    | [Felipardo](https://github.com/felipardo759-dot/Felipe-Olivares)                       |
+| 08 | Felipe Olivares    | 🟩 [Felipardo](https://github.com/felipardo759-dot/Felipe-Olivares)                       |
 | 09 | Tiara Pizarro    | 🟩 [Markoook](https://github.com/Markoook/taco122-037-bitacora-mark)                       |
 | 10 | Santiago Rodríguez    | 🟩 [GatoRodriguez](https://github.com/GatoRodriguez/TACO122-037-Bitacora-GatoRodriguez)                       |
 |11 | Gema Garate | 🟩 [gemagarate](https://github.com/gemagarate/taco122-037-bitacora-gemagarate)
