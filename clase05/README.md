@@ -7,7 +7,7 @@
 - Aprendimos a usar una pantalla OLED con texto en [miPrimeraPantallaOLED-096](./miPrimeraPantallaOLED-096/), [pantallaOled-conscroll](./pantallaOled-conscroll/) 
 - Aprendimos a poner imágenes en la pantalla vía [image2cpp](https://javl.github.io/image2cpp/) y [miPrimeraImagen-enOLED](./miPrimeraImagen-enOLED/)
 
-## Pines del arduino (ojo con A4 y A5)
+## Pines del arduino UNO (ojo con A4 y A5)
 
 ![pines del arduino](./imagenes/arduino-uno-pinout.jpg)
 
@@ -23,6 +23,14 @@
 - Construir en una pantalla OLED una proyección de una frase que se adapte a lo largo del tiempo. Puede ser utilizando imágenes, scroll, palabra por palabra, etc. Ayudarse de arrays y ciclos for para incorporar palabras.
 - La próxima semana (11 de septiembre) es posible que la clase se de vía online, donde revisaremos cada bitácora
 - La primera nota también tiene un porcentaje de todos los encargos hasta ahora
+
+## Registro
+
+[parte 1](https://youtu.be/Zyho5M-9hVw)
+
+[parte 2](https://youtu.be/qXsahrsn8Aw)
+
+[parte 3](https://youtu.be/7rf3O2o8hCg)
 
 ### Pre apuntes para clase
 
