@@ -43,3 +43,6 @@
 [submodule "bitacoras/sonoboya"]
 	path = bitacoras/sonoboya
 	url = https://github.com/sonoboya/TACO-electronica2025
+[submodule "bitacoras/felipardo759-dot"]
+	path = bitacoras/felipardo759-dot
+	url = https://github.com/felipardo759-dot/Felipe-Olivares/
