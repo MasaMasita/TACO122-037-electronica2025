@@ -47,11 +47,13 @@ git config --global alias.pullall '!git pull --recurse-submodules && git submodu
 2. Aprender consiste en fallar
 3. La vida es tan difícil como graciosa
 4. Mi trabajo como profesor es en parte enseñarles a lidiar
-5. Su trabajo como estudiantes es en parte comunicar lo que les pase
-6. El mundo existe porque se nos resiste. La resistencia no se opone, conduce
+5. Su trabajo como estudiantes es en parte absorber tantas certezas como preguntas
+6. El mundo existe porque se nos resiste. La resistencia no solo opone, conduce
 7. Escuchar y observar son formas de conocimiento
 8. Todo está en transformación. Ningún proyecto se termina
-9. Trabajar 
+9. Empezar a trabajar es lo más difícil. Pero después de hacer, lo difícil es recordar lo mucho que nos costó iniciar
+10. Correr riesgos con el trabajo enseña más que una buena calificación
+
 
 
 
