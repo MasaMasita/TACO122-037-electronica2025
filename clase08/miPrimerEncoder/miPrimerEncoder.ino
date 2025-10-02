@@ -15,8 +15,6 @@
 //Definimos que existe ARDUINO_AVR_UNO
 #define ARDUINO_AVR_UNO
 
-//creo variable donde envío el número a processing
-int valorAEnviar = 0;
 
 #if defined(ARDUINO_AVR_UNO) || defined(ARDUINO_AVR_NANO_EVERY)
 // Example for Arduino UNO with input signals on pin 2 and 3
@@ -56,16 +54,14 @@ void loop()
 
   int newPos = encoder.getPosition();
   if (pos != newPos) {
-    // Serial.print("pos:");
-    // Serial.print(newPos);
-    // Serial.print(" dir:");
-    // Serial.println((int)(encoder.getDirection()));
+    Serial.print("pos:");
+    Serial.print(newPos);
+    Serial.print(" dir:");
+    Serial.println((int)(encoder.getDirection()));
     pos = newPos;
   } // if
 
-  //siempre valorAEnviar va a ser newPos
-  valorAEnviar=newPos;
-  Serial.println(valorAEnviar);
+
 
 } // loop ()
 
