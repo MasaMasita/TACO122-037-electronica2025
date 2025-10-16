@@ -13,17 +13,17 @@ repositorio del curso Electrónica Digital: del Dato al Objeto del Departamento 
 |     6 | 11 sept | evaluación 1    (probable suspensión)                |
 | x     | 18 sept | feriado                                                                                            |
 |     7 | 25 sept | processing, texto, cámara                                                                          |
-|     8 |   2 oct | guardar datos en tarjeta SD (spi)                                                                  |
-|     9 |   9 oct | teclado experimental con encoder y sensor capacitivo                                               |
-|    10 |  16 oct | mouse experimental con acelerómetro y giroscopio                                                   |
+|     8 |   2 oct | encoder y motor paso a paso                                                     |
+|     9 |   9 oct | paro                                          |
+|    10 |  16 oct | datos de gps                                         |
 |    11 |  23 oct | intro sonic pi                                                                                     |
-|    12 |  30 oct | controlador midi                                                                                   |
+|    12 |  30 oct | presentación anteproyecto                                          |
 |    13 |   6 nov | proyecto individual                                                                                |
 |    14 |  13 nov | proyecto individual                                                                                |
 |    15 |  20 nov | proyecto individual                                                                                |
-|    16 |  27 nov | proyecto individual                                                                                |
-|    17 |   4 dic | exámenes                                                                                           |
-|    18 |  11 dic | exámenes                                                                                           |
+|    16 |  27 nov | examenes. El examen debería ser esta semana                              |
+|    17 |   4 dic | examenes                                                                             |
+|    ~~18~~ |  ~~11 dic~~ | ~~exámenes~~                                                                                           |
 
 ## Bitácoras de estudiantes
 
