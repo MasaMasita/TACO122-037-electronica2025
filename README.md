@@ -16,14 +16,14 @@ repositorio del curso Electrónica Digital: del Dato al Objeto del Departamento 
 |     8 |   2 oct | encoder y motor paso a paso                                                     |
 |     9 |   9 oct | paro                                          |
 |    10 |  16 oct | datos de gps                                         |
-|    11 |  23 oct | intro sonic pi                                                                                     |
+|    11 |  23 oct | revisión de referentes y discusión                                         |
 |    12 |  30 oct | presentación anteproyecto                                          |
-|    13 |   6 nov | proyecto individual                                                                                |
-|    14 |  13 nov | proyecto individual                                                                                |
-|    15 |  20 nov | proyecto individual                                                                                |
-|    16 |  27 nov | examenes. El examen debería ser esta semana                              |
-|    17 |   4 dic | examenes                                                                             |
-|    ~~18~~ |  ~~11 dic~~ | ~~exámenes~~                                                                                           |
+|    13 |   6 nov | proyecto individual                                                |
+|    14 |  13 nov | proyecto individual                                                |
+|    15 |  20 nov | proyecto individual                                                |
+|    16 |  27 nov | examenes. El examen debería ser esta semana                        |
+|    17 |   4 dic | examenes                                                           |
+|    ~~18~~ |  ~~11 dic~~ | ~~exámenes~~                                                                     |
 
 ## Bitácoras de estudiantes
 
