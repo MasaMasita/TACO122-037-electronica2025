@@ -65,3 +65,8 @@ Visitantes/oyentes/observantes/externos al DAV
 | 103 | Ignacio Mariño    |🟩 [volodoro](https://github.com/volodoro/Bitacora-TACO122)                       |
 | 104 | Angel Olivares    | 🟩 [Ciyecm](https://github.com/Ciyecm/Bit-cora-Programaci-n-MISAA)     |
 | 105 | sonoboya | 🟩[sonoboya](https://github.com/sonoboya/TACO-electronica2025)
+
+## Para instalar GIT en windows
+
+<https://git-scm.com/install/windows>
+
